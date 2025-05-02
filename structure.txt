@@ -1,0 +1,22 @@
+BenfordProject
+│
+├── backend
+│    ├── node_modules
+│    ├── uploads
+│    ├── .env
+│    ├── benford.js
+│    ├── package-lock.json
+│    ├── package.json
+│    └── server.js
+│
+└── frontend
+    ├── node_modules
+    ├── public
+    │   └── index.html
+    ├── src
+    │   └── components
+    │    │ ├── FileUpload.js
+    │    │ └── Graph.js
+    │    └── App.js
+    ├── package-lock.json
+    └── package.json
